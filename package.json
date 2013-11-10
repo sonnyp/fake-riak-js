@@ -1,0 +1,31 @@
+{
+  "name": "fake-riak-js",
+  "version": "0.0.1",
+  "description": "Quick and dirty riak-js API implementation with memory storage for testing purposes.",
+  "main": "lib/index",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "engines": {
+    "node": ">=0.8.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/sonnyp/fake-riak-js.git"
+  },
+  "author": {
+    "name" : "Sonny Piers",
+    "email" : "sonny@fastmail.net"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sonnyp/fake-riak-js/issues"
+  },
+  "devDependencies": {
+    "mocha": "~1.13.0",
+    "grunt": "~0.4.1",
+    "grunt-jsvalidate": "~0.2.2",
+    "grunt-contrib-jshint": "~0.7.0",
+    "grunt-mocha-test": "~0.7.0"
+  }
+}
