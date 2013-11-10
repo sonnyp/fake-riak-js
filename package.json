@@ -22,7 +22,7 @@
     "url": "https://github.com/sonnyp/fake-riak-js/issues"
   },
   "devDependencies": {
-    "mocha": "~1.13.0",
+    "mocha": "~1.14.0",
     "grunt": "~0.4.1",
     "grunt-jsvalidate": "~0.2.2",
     "grunt-contrib-jshint": "~0.7.0",
